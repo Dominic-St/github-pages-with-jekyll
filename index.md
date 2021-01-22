@@ -1,7 +1,7 @@
 # Welcome to my blog
 
-<h2>This is my first website with Github</h2>
-<dev>
+This is my first website with Github
+---
   i hope its ok for now
   i just want to test this :)
-</dev>
+---
